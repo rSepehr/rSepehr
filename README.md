@@ -20,13 +20,6 @@
 
 ---
 
-## 🚀 پروژه منتخب من: حساب‌یار
-
-مهم‌ترین پروژه من **«حساب‌یار»**، یک نرم‌افزار حسابداری رایگان و متن‌باز برای کسب‌وکارهای کوچک ایرانی است. این پروژه را برای کمک به کارآفرینان و فروشگاه‌داران ساختم تا مدیریت مالی خود را به سادگی و بدون هزینه انجام دهند.
-
-[![HesabYar Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rSepehr&repo=HesabYar&theme=tokyonight&locale=fa&border_radius=10)](https://github.com/rSepehr/HesabYar)
-
----
 
 ## 🛠️ تکنولوژی‌ها و ابزارها
 
@@ -55,14 +48,3 @@
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   </a>
 </p>
-
----
-
-## 📊 آمار گیت‌هاب من
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rSepehr&show_icons=true&theme=tokyonight&locale=fa&hide_border=true&border_radius=10" alt="آمار گیت‌هاب سپهر" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rSepehr&layout=compact&theme=tokyonight&locale=fa&hide_border=true&border_radius=10" alt="زبان‌های برتر" />
-</p>
-
-</div>
